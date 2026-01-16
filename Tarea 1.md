@@ -24,7 +24,7 @@ Esta actividad tiene como objetivo desarrollar intuición sobre los datos de tex
    - Longitud del vocabulario (número de palabras únicas)
    - Densidad léxica calculada: (palabras únicas / palabras totales) × 100
 
-### Fecha de entrega: Lunes 
+### Fecha de entrega: Martes 20 de enero, por Teams
 ### Formato: ( Jupyter Notebook / script de Python con comentarios ) + PDF con reporte
 
 ## ASIGNACIONES
