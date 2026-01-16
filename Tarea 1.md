@@ -11,10 +11,10 @@ Esta actividad tiene como objetivo desarrollar intuición sobre los datos de tex
 ### ENTREGABLE: Reporte por pareja que incluya:
 1. Número de documentos en cada corpus. Si hay categorías, número de documentos por categoría.
 2. Tema(s) principal(es) identificado(s) en cada corpus.
-3. Tono predominante (formal, informal, emocional).
+3. Tono predominante (formal, informal, etc).
 4. ¿En qué idioma(s) está el corpus?
 5. ¿Qué tan "sucio" está el corpus? (presencia de HTML, URLs, caracteres extraños, errores de formato)
-6. Hallazgos curiosos (patrones inesperados, distribuciones inusuales).
+6. Hallazgos curiosos.
 7. ¿Qué tipo de tarea de NLP podríamos hacer con este corpus? (clasificación, generación, análisis de sentimiento, etc.)
 8. ANÁLISIS REQUERIDO PARA CADA CORPUS:
    - Nube de palabras (general y por categorías si aplica)
