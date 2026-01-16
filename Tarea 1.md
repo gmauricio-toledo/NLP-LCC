@@ -25,7 +25,12 @@ Esta actividad tiene como objetivo desarrollar intuición sobre los datos de tex
    - Densidad léxica calculada: (palabras únicas / palabras totales) × 100
 
 ### Fecha de entrega: Martes 20 de enero, por Teams
-### Formato: ( Jupyter Notebook / script de Python con comentarios ) + PDF con reporte
+
+### Formato
+Hay dos opciones:
+1. ( Jupyter Notebook / script de Python ) con comentarios  + PDF con reporte
+2. Jupyter Notebook con el reporte al final en markdown
+
 
 ## ASIGNACIONES
 
