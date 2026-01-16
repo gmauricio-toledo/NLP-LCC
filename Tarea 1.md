@@ -19,7 +19,7 @@ Esta actividad tiene como objetivo desarrollar intuición sobre los datos de tex
 8. ANÁLISIS REQUERIDO PARA CADA CORPUS:
    - Nube de palabras (general y por categorías si aplica)
    - Histograma de longitudes de documentos
-   - Promedio de longitud por documento (en palabras y caracteres)
+   - Promedio de longitud por documento (en palabras)
    - Top 10 palabras más usadas
    - Longitud del vocabulario (número de palabras únicas)
    - Densidad léxica calculada: (palabras únicas / palabras totales) × 100
