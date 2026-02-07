@@ -110,19 +110,19 @@ Debe incluir:
 
 | Equipo | Variable experimental | Valor de n | Notas |
 |--------|----------------------|------------|-------|
-| Equipo 1 | Stopwords (on/off) | n=2 | |
-| Equipo 2 | Stopwords (on/off) | n=3 | Generación con top-k sampling |
+| Equipo 1 | Puntuación (on/off) | n=2 | |
+| Equipo 2 | Tokens inicio/fin (on/off) | n=3 | Generación con top-k sampling |
 | Equipo 3 | Stopwords (on/off) | n=4 | Generación con top-k sampling |
 | Equipo 4 | Dígitos (mantener/eliminar) | n=2 | Generación con top-k sampling |
-| Equipo 5 | Dígitos (mantener/eliminar) | n=3 | |
+| Equipo 5 | Lowercase (on/off) | n=3 | |
 | Equipo 6 | Dígitos (mantener/eliminar) | n=4 | |
 | Equipo 7 | Puntuación (on/off) | n=2 | |
-| Equipo 8 | Puntuación (on/off) | n=3 | |
+| Equipo 8 | Stopwords (on/off) | n=3 | |
 | Equipo 9 | Puntuación (on/off) | n=4 | |
-| Equipo 10 | Lowercase (on/off) | n=2 | |
+| Equipo 10 | Dígitos (mantener/eliminar)  | n=2 | |
 | Equipo 11 | Lowercase (on/off) | n=3 | |
 | Equipo 12 | Lowercase (on/off) | n=4 | |
-| Equipo 13 | Tokens inicio/fin (on/off) | n=2 | |
+| Equipo 13 | Stopwords (on/off) | n=2 | |
 | Equipo 14 | Tokens inicio/fin (on/off) | n=3 | |
 | Equipo 15 | Tokens inicio/fin (on/off) | n=4 | |
 
