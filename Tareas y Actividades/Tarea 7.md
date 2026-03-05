@@ -16,6 +16,7 @@
 5. Optimizar hiperparámetros. 
 6. ¿Es posible obtener la importancia de las palabras? Piensa tu respuesta y comentala en clase, no es necesario implementarlo.
 7. En tu mejor modelo (respecto a F1-score), muestra dos ejemplos de falsos positivos y falsos negativos, ¿qué notas en ellos?
+8. Llena las entradas correspondientes en la tabla de resultados del excel de la sección de archivos de Teams.
 
 **Métricas**:
 - Accuracy, F1-score
