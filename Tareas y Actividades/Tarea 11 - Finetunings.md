@@ -29,7 +29,8 @@ Para cada estrategia de finetuning:
 **Pasos**:
 1. Cargar y preprocesar el dataset.
 2. Dividir en train/test (estratificado por clases), usa las mismas proporciones de las iteraciones pasadas de esta actividad.
-3. Hacer finetuning con las 3 estrategias usando HuggingFace. Para el finetuning de LLM usando un modelo de más de 1B de parámetros y menos de 10B. Para la elección del modelo tomar en cuenta el idioma del dataset.
+3. Hacer finetuning con las 3 estrategias usando HuggingFace. Para el finetuning de LLM usando un modelo de más de 1B de parámetros y menos de 10B. Para la elección del modelo tomar en cuenta el idioma del dataset. Recuerda usar los modelos con la clase `AutoAutoModelForSequenceClassification`.
+
 4. Registrar tiempo de entrenamiento (desde el inicio hasta el final del entrenamiento). **Sólo el tiempo de entrenamiento**
 5. Evaluar en test set.
 
