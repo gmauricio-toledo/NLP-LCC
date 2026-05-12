@@ -19,16 +19,6 @@ Cada equipo partira de una combinacion de distintos componentes y podran mejorar
 * Incluir evaluacion humana de las respuestas.
 * El documento trampa debe estar incluido en la base de conocimiento de todos los equipos.
 
-## Equipos
-
-| Pareja | Foco de exploracion | Chunking | Embeddings | Vector DB | Retrieval / Reranking | Generation |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Equipo 1 | Estrategias de chunking | CharacterTextSplitter, SemanticChunker, RecursiveCharacterTextSplitter (estructural por headers) | all-MiniLM-L6-v2 | ChromaDB | Similitud densa basica | LLM |
-| Equipo 2 | Framework LlamaIndex | RecursiveCharacterTextSplitter | all-MiniLM-L6-v2 | VectorStoreIndex (LlamaIndex) | Similaridad densa nativa de LlamaIndex | LLM via LlamaIndex |
-| Equipo 3 | Estrategias de retrieval | RecursiveCharacterTextSplitter | BAAI/bge-small-en | FAISS | Solo similitud densa vs BM25 solo vs Ensemble BM25 + similitud | LLM |
-| Equipo 4 | Estrategias de reranking | RecursiveCharacterTextSplitter | BAAI/bge-large-en | LanceDB | Sin reranker vs Cross-encoder (HF) vs LLM como reranker | LLM |
-| Equipo 5 | Bases de datos vectoriales | RecursiveCharacterTextSplitter | intfloat/e5-large-v2 | ChromaDB vs FAISS vs LanceDB vs Qdrant | Similitud densa | LLM |
-| Equipo 6 | Tipos de documentos y preprocesamiento | Dependiente del tipo de documento | all-MiniLM-L6-v2 | ChromaDB | Similitud densa | LLM |
 
 ## Descripcion por equipo
 
