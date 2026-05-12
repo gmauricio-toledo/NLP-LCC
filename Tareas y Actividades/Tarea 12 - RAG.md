@@ -34,6 +34,20 @@ Equipo 5 - Bases de datos vectoriales: Implementar el mismo pipeline de RAG sobr
 
 Equipo 6 - Tipos de documentos y preprocesamiento: Comparar al menos 3 tipos de documento: PDF nativo/extraible (texto plano), PDF escaneado o imagen que requiere OCR (usar pymupdf4llm, marker, o unstructured), y documento estructurado como Markdown o HTML con jerarquia de headers clara. Reportar como el tipo de documento afecta la calidad del chunking, retrieval, y generacion. El documento trampa debe ser del mismo formato que los demas para no sesgar por preprocesamiento.
 
+## Equipos
+
+| Equipo |  |  |  |
+|--------|--------------|--------------|--------------|
+| Equipo 1 | Medina Lugo Fausto Misael | Alan David Torres Flores | |
+| Equipo 2 | Denisse Antunez Lopez | Georgina Salcido Valenzuela | Ana Laura Chenoweth Galaz |
+| Equipo 3 | Caro Perez Horacio | Joan Antonio Lázaro Silva | Joaquín Alfredo Castro Córdova |
+| Equipo 4 | Flor María Machado Felix | Ángel Fernando Bórquez Guerrero | |
+| Equipo 5 | Mirka Galilea Dennis Vargas | José Emilio Angulo Bermudez | |
+| Equipo 6 | Braulio Alessandro Sanchez Bermudez | Manuel Eduardo Gortarez Blanco | |
+| Equipo 7 | Luis Mario Sainz Peñufiuri | Manuel Alejandro Heredia Nogales | |
+| Equipo 8 | Francisco Mario González Bórquez | Luis Enrique Jácome Toro | Miguel Cruz Duarte |
+| Equipo 9 | Jorge Guerrero | | |
+
 ## Presentacion
 
 - Mostrar capturas donde muestren la(s) linea(s) especifica(s) donde se realiza cada paso: chunking / embeddings / vector DB / retrieve / re-ranking (si aplica) / generation.
